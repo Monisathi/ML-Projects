@@ -1,2 +1,2 @@
-# ML-Projects
-I have worked on various Machine Learning projects by using various algorithms like Linear Regression, Logistic Regression, Decision Tree, Random Forest etc., to make right predictions with greater accuracy.
+# House Price Prediction
+In this project, we need to predict the house prices in Boston using various parameters. I have used Linear Regression algorithm to create a model to predict the house prices in Boston.
